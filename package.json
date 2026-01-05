@@ -4,8 +4,5 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
-  },
-  "dependencies": {
-    "haxball-headless": "^1.0.0"
   }
 }
